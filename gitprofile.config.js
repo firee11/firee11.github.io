@@ -11,7 +11,7 @@ const config = {
     },
   },
   scratch: {
-    username: '', //TODO: Your Scratch username. (Required)
+    username: 'tym_zend', //TODO: Your Scratch username. (Required)
     limit: 8, // How many projects to display; maximum 20
     sortBy: 'date', // date | views | remixes
     corsProxy: 'https://scratchapicors-git-main-zendens-projects.vercel.app/', //TODO: Enter your CORS Proxy here
@@ -40,7 +40,6 @@ const config = {
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'farting',
     'scratch',
     'Microbit',
     'JavaScript',
